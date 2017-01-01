@@ -1,8 +1,7 @@
-package Module3.Task1
+package Module3.Task1;
 
-/**
- * Created by andrey on 25.12.2016.
- */
+
+
 public class Bird {
 
     private String name;
@@ -40,3 +39,4 @@ public class Bird {
     }
 
 }
+
