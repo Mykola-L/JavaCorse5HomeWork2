@@ -8,9 +8,7 @@ import java.util.HashMap;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
 
-/**
- * Created by g.zubenko on 23.11.2016.
- */
+
 public class DaoImpl implements Dao {
     HashMap<Long, Room> rooms = new HashMap<Long,Room>();
 

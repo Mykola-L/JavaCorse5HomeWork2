@@ -2,9 +2,7 @@ package Module4;
 
 import java.util.ArrayList;
 
-/**
- * Created by g.zubenko on 16.11.2016.
- */
+
 public class Transaction {
     private boolean isCanceled;
     private TransactionType type;

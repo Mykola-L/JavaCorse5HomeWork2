@@ -5,9 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.function.IntFunction;
 
-/**
- * Created by g.zubenko on 16.12.2016.
- */
+
 public class ExecutingTimeCalculator {
     enum Type {ADD(" in "), SET(" in "), GET(" from "), REMOVE(" from ");
         private final String inFrom;
